@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad05_Aplicación_ANDROID_Spinner</string>
+    <string name="conversor_temperaturas">Conversor TEMPERATURAS</string>
+    <string name="convertir">convertir</string>
+    <string name="a">a:</string>
+    <string name="resultado">resultado:</string>
+</resources>
